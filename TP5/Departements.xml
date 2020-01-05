@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departements>
+  <departement data_id="1">
+    <nom>Departement 1</nom>
+    <region>1</region>
+  </departement>
+  <departement data_id="2">
+    <nom>Departement 2</nom>
+    <region>1</region>
+  </departement>
+  <departement data_id="3">
+    <nom>Departement 3</nom>
+    <region>1</region>
+  </departement>
+  <departement data_id="4">
+    <nom>Departement 4</nom>
+    <region>2</region>
+  </departement>
+  <departement data_id="5">
+    <nom>Departement 5</nom>
+    <region>2</region>
+  </departement>
+</departements>

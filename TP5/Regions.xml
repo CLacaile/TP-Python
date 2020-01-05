@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<regions>
+  <region data_id="1">
+    <nom>Region 1</nom>
+  </region>
+  <region data_id="2">
+    <nom>Region 2</nom>
+  </region>
+</regions>

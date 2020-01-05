@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<communes>
+  <commune data_id="1">
+    <nom>Commune 1</nom>
+    <population>100</population>
+    <departement>1</departement>
+  </commune>
+  <commune data_id="2">
+    <nom>Commune 2</nom>
+    <population>100</population>
+    <departement>1</departement>
+  </commune>
+  <commune data_id="3">
+    <nom>Commune 3</nom>
+    <population>100</population>
+    <departement>2</departement>
+  </commune>
+  <commune data_id="4">
+    <nom>Commune 4</nom>
+    <population>100</population>
+    <departement>2</departement>
+  </commune>
+  <commune data_id="5">
+    <nom>Commune 5</nom>
+    <population>100</population>
+    <departement>3</departement>
+  </commune>
+  <commune data_id="6">
+    <nom>Commune 6</nom>
+    <population>100</population>
+    <departement>3</departement>
+  </commune>
+  <commune data_id="7">
+    <nom>Commune 7</nom>
+    <population>100</population>
+    <departement>4</departement>
+  </commune>
+  <commune data_id="8">
+    <nom>Commune 8</nom>
+    <population>100</population>
+    <departement>5</departement>
+  </commune>
+</communes>
